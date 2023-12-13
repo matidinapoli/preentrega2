@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "X-Men: Dios ama, el hombre mata",
+    "descripcion": "Famoso comic TOPSELLER luego adaptado para X-Men 2",
+    "imagen": "https://tiocammoi.com/wp-content/uploads/2019/04/Marvel_Graphic_Novel_Vol_1_5.jpg",
+    "precio": 23776,
+    "stock": 10,
+    "categoria": "Marvel"
+  },
+  {
+    "id": 2,
+    "nombre": "El guantelete del infinito",
+    "descripcion": "Serie de cómics de 6 números",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/56/b5/56b5e7c38601b03342c1e74b034f79ba.jpg",
+    "precio": 40659,
+    "stock": 10,
+    "categoria": "Marvel"
+  },
+  {
+    "id": 3,
+    "nombre": "Deadpool mata el universo marvel",
+    "descripcion": "El nombre lo dice todo",
+    "imagen": "https://comics616blog.files.wordpress.com/2015/10/k.jpg",
+    "precio": 14000,
+    "stock": 10,
+    "categoria": "Marvel"
+  },
+  {
+    "id": 4,
+    "nombre": "One Piece N°1",
+    "descripcion": "Toda la coleccion de mangas de One Piece hasta la fecha ",
+    "imagen": "https://tutopiaplace.com.ar/wp-content/uploads/2021/12/Sin-titulo-39.jpg",
+    "precio": 3150,
+    "stock": 10,
+    "categoria": "Mangas"
+  },
+  {
+    "id": 5,
+    "nombre": "Dragon Ball (color)",
+    "descripcion": "Tomo 1 a color de la famosa saga",
+    "imagen": "https://acdn.mitiendanube.com/stores/399/159/products/dbcolorshonen011-faf98dabf7508029dd15941443054042-640-0.jpg",
+    "precio": 7200,
+    "stock": 10,
+    "categoria": "Mangas"
+  },
+  {
+    "id": 6,
+    "nombre": "Watchmen",
+    "descripcion": "Comic que refleja las ansiedades contemporáneas y critica el concepto de superhéroe",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Watchmen-cover.svg/640px-Watchmen-cover.svg.png",
+    "precio": 53299,
+    "stock": 10,
+    "categoria": "DCuniverse"
+  },
+  {
+    "id": 7,
+    "nombre": "Batman: El tribunal de los buhos",
+    "descripcion": "Una poderosa organizacion secreta que llevaba operando en las sombras de Gotham durante años",
+    "imagen": "https://content.eccediciones.com/productos/4022/cubierta_tribunal_buhos_deluxe_pvc_WEB.jpg",
+    "precio": 34662,
+    "stock": 10,
+    "categoria": "DCuniverse"
+  },
+  {
+    "id": 8,
+    "nombre": "La muerte de superman  ",
+    "descripcion": "En la historia, Superman entra en batalla con una criatura genéticamente modificada a priori invencible llamada Doomsday en las calles de Metrópolis",
+    "imagen": "https://content.eccediciones.com//contenido/cubierta_La_Muerte_de_Superman_DEF.jpg",
+    "precio": 8000,
+    "stock": 10,
+    "categoria": "DCuniverse"
+  }
+]
